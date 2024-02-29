@@ -15,6 +15,7 @@
 									со стрелки на 'указательный палец' */
 	user-select: none;           /* отключаем возможность выделить текст внутри кнопки */
 	font-weight: lighter;
+	
   } 
   
   /* hover - это состояние элемента, когда на него наведен курсор */
@@ -58,4 +59,14 @@
   }
 
 
+    /* Стили для иконки луны */
+    .moon-icon {
+      width: 30px; /* Размер иконки */
+      height: 30px;
+	  vertical-align: middle;
+    }
 
+	.dark-theme {
+		color: #f2f2f2;
+		background-color: #17161a;
+	}
