@@ -53,15 +53,15 @@
 	background: rgb(73, 73, 73); /* цвет можно задавать и таким образом */
 	text-align: right;           /* примагнитим текст к правой стороне */
 	color: #ffffff;              /* цвет текста белый */
-	font-size: 1.5rem;
+	font-size: 40px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: lighter;
   }
 
 
-    /* Стили для иконки луны */
+    /* Стили для иконки */
     .moon-icon {
-      width: 30px; /* Размер иконки */
+      width: 30px;
       height: 30px;
 	  vertical-align: middle;
     }
