@@ -57,5 +57,9 @@
 	font-weight: lighter;
   }
 
+  body {
+	background-image: url('bg.png'); 
+	background-size: cover;
+  }
 
 

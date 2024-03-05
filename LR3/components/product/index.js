@@ -16,6 +16,9 @@ export class ProductComponent {
 								<h5 class="card-title">${data.title}</h5>
 								<p class="card-text">${data.text}</p>
 								<button class="btn btn-primary" id="showAccordionBtn">Купить</button>
+
+								<!-- начало аккордеона --!>
+
 								<div class="accordion mt-3" id="accordionExample" style="display: none;">
 									<div class="accordion-item">
 										<h2 class="accordion-header" id="headingOne">
@@ -54,6 +57,9 @@ export class ProductComponent {
 										</div>
 									</div>
 								</div>
+
+								<!-- конец аккордеона -->
+
 							</div>
 						</div>
 					</div>
